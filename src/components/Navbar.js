@@ -1,7 +1,7 @@
 import {pageLinks, socialLinks} from "../data";
 // import PageLinks from "./PageLinks";
 import logo from "../images/logo.svg";
-import SocialLink from "./SocialLink";
+// import SocialLink from "./SocialLink";
 
 
 const Navbar = () => {
